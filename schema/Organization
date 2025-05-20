@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@graph": {
+    "@type": "Organization",
+    "@id": "https://www.agileepoch.vn/#/schema/Organization/1",
+    "name": "Agileepoch",
+    "legalName": "Agileepoch A/S",
+    "url": "https://www.agileepoch.vn",
+    "description": "@legalName",
+    "sameAs": [
+      "https://www.facebook.com/agileepoch/",
+      "https://www.pinterest.com/agileepoch_vn/",
+      "https://github.com/AgileEpoch"
+    ],
+    "email": "help@agileepoch.vn",
+    "logo": {
+      "@type": "ImageObject",
+      "@id": "https://www.agileepoch.vn/#/schema/ImageObject/Logo/1"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "@id": "https://www.trustpilot.com/#/schema/PostalAddress/DK",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "VN"
+      }
+    }
+  }
+}
