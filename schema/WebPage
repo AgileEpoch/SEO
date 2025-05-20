@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@graph": {
+    "@type": "WebPage",
+    "@id": "https://www.agileepoch.vn/",
+    "url": "https://www.agileepoch.vn/",
+    "name": "Trang chủ",
+    "isPartOf": {
+      "@id": "https://www.agileepoch.vn/#/schema/WebSite/1"
+    },
+    "inLanguage": "vi-VN",
+    "breadcrumb": {
+      "@id": "https://www.agileepoch.vn/#/schema/BreadcrumbList/1"
+    }
+  }
+}
