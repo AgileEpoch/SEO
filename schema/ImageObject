@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@graph": {
+    "@type": "ImageObject",
+    "@id": "https://www.agileepoch.vn/#/schema/ImageObject/Logo/1",
+    "url": "https://www.agileepoch.vn/wp-content/uploads/2025/05/cropped-favicon.png",
+    "contentUrl": "https://www.agileepoch.vn/wp-content/uploads/2025/05/cropped-favicon.png",
+    "width": {
+      "@type": "QuantitativeValue",
+      "unitCode": "E37",
+      "unitText": "pixel"
+    },
+    "height": {
+      "@type": "QuantitativeValue",
+      "unitCode": "E37",
+      "unitText": "pixel"
+    },
+    "caption": "Agileepoch Logo",
+    "name": "Agileepoch"
+  }
+}
